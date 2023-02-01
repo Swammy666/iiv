@@ -110,7 +110,7 @@ getgenv().antistomplo = false
     end
 
 
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/slammy1/dildosimulator2022free/main/yj"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Swammy666/iiv/main/fag"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
